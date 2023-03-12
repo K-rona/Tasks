@@ -1,0 +1,5 @@
+start = "Введите кол-во дней"
+units_measure1 = "миль"
+units_measure2 = "км"
+units_measure3 = "а.е"
+time = "час(ов)"
